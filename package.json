@@ -1,5 +1,5 @@
 {
-  "name": "keycloak-connect",
+  "name": "sg2b-keycloak-connect",
   "version": "3.5.0",
   "description": "Keycloak Connect Middleware",
   "homepage": "http://keycloak.org",
